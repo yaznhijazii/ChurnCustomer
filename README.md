@@ -22,9 +22,6 @@ Customer churn refers to the loss of customers over time. This project leverages
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/churn-prediction.git
-
 Data
 The dataset used for this project should include historical customer data, including features such as transaction history, customer demographics, and customer interactions. Ensure that the dataset is well-organized and does not contain missing values.
 
@@ -44,3 +41,6 @@ This project provides a comprehensive solution for predicting customer churn and
 
 Feel free to contribute and enhance the project for specific business needs!
 
+
+```bash
+git clone https://github.com/yourusername/churn-prediction.git
