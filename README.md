@@ -22,25 +22,5 @@ Customer churn refers to the loss of customers over time. This project leverages
 
 1. Clone the repository:
 
-Data
-The dataset used for this project should include historical customer data, including features such as transaction history, customer demographics, and customer interactions. Ensure that the dataset is well-organized and does not contain missing values.
-
-##Preprocessing
-Preprocess the data to handle missing values, encode categorical variables, and scale numerical features. This step ensures the data is suitable for training machine learning models.
-
-##Machine Learning Models
-Train and evaluate machine learning models, such as logistic regression, decision trees, or random forests, to predict customer churn. Evaluate the models using appropriate metrics such as accuracy, precision, recall, and F1 score.
-
-##Power BI Dashboards
-Connect Power BI to your dataset.
-Create visuals for key churn metrics, such as churn rate, customer lifetime value, and customer satisfaction.
-Utilize Power BI's interactive features to allow users to explore and analyze the data.
-Implement a real-time dashboard for monitoring current churn status.
-Conclusion
-This project provides a comprehensive solution for predicting customer churn and implementing retention strategies. The combination of machine learning models and Power BI dashboards empowers businesses to make informed decisions and improve customer retention.
-
-Feel free to contribute and enhance the project for specific business needs!
-
-
 ```bash
 git clone https://github.com/yourusername/churn-prediction.git
